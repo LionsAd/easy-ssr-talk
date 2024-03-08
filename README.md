@@ -9,3 +9,7 @@ All you need to get started with the page-cache in your project. (assumes preact
 ### Examples
 
 All the examples of the talk.
+
+### config/sync 
+
+Examples for spa\_admin configuration.
