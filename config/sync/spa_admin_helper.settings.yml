@@ -1,0 +1,9 @@
+_core:
+  default_config_hash: goXE5ZR84AAj9gmXLl7xieThtnDD7n9V_Ut5rgDAFvU
+embed_url_pattern: '/.*'
+provider: react_local
+skip_routes:
+  - user.login
+  - user.reset.login
+  - user.logout
+theme: easyssr_app
